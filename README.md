@@ -9,8 +9,8 @@ Docentes:
 * Gustavo Pérez 
 
 Integrantes: 
-* Heric Francisco Vargas Cabiativa (hevargasc@unal.edu.co)
 * David Mauricio Torres Castillo  (damtorresca@unal.edu.co)
+* Heric Francisco Vargas Cabiativa (hevargasc@unal.edu.co)
 * Esteban Ladino Fajardo (eladinof@unal.edu.co)
 
 ## Trabajos Asignados y desarrollo
