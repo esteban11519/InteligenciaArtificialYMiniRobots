@@ -18,4 +18,4 @@ Integrantes:
 
 |Actividad | Avance | ¿Versión Final? |
 |---|---|---|
-|[Panorama de la IA](./Parte2/IA_1_Panorama/IA_1_Panorama.ipynb)| 80% | NO|
+|[Panorama de la IA](./Parte2/IA_1_Panorama/IA_1_Panorama.ipynb)| 82% | NO|
