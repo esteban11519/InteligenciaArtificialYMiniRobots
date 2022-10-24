@@ -19,4 +19,4 @@ Integrantes:
 |Actividad | Avance | ¿Versión Final? |
 |---|---|---|
 |[Panorama de la IA](./Parte2/IA_1_Panorama/IA_1_Panorama.ipynb)| 82% | NO|
-|[Autómatas Celulares](./Parte2/IA_2_AutomatasCelulares/IA_2_AutomatasCelulares.ipynb)|20%|NO|
+|[Autómatas Celulares](./Parte2/IA_2_AutomatasCelulares/IA_2_AutomatasCelulares.ipynb)|40%|NO|
