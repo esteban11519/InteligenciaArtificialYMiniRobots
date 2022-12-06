@@ -6,7 +6,8 @@ Docentes:
 
 * José J. Martínez P. (josejesusmp@gmail.com)
 
-* Gustavo Pérez 
+* Gustavo Pérez (goosper@gmail.com)
+
 
 Integrantes: 
 * David Mauricio Torres Castillo  (damtorresca@unal.edu.co)
@@ -18,5 +19,6 @@ Integrantes:
 
 |Actividad | Avance | ¿Versión Final? |
 |---|---|---|
-|[Panorama de la IA](./Parte2/IA_1_Panorama/IA_1_Panorama.ipynb)| 82% | NO|
-|[Autómatas Celulares](./Parte2/IA_2_AutomatasCelulares/IA_2_AutomatasCelulares.ipynb)|60%|NO|
+|[Panorama de la IA](./Parte2/IA_1_Panorama/IA_1_Panorama.ipynb)| 82% | Si|
+|[Autómatas Celulares](./Parte2/IA_2_AutomatasCelulares/IA_2_AutomatasCelulares.ipynb)|60%|Si|
+|[Programación Genética](./Parte2/IA_4_ProgramacionGenetica/IA_4_ProgramacionGenetica.ipynb)|100%|Si|
